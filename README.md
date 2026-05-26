@@ -3,4 +3,5 @@
 All the formulas around Astronomy bundled in one reference sheet
 
 ## Astrophotography
-More info will follow
+Since I recently bought the Celestron Origin mark II, you will find my finalized pictures here
+In the frame of the picture, you will find relevant information about how the picture was taken
